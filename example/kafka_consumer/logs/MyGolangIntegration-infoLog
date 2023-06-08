@@ -1,0 +1,3 @@
+{"L":"INFO","T":"2023-06-08T11:30:15.478+0800","C":"kafka_consumer/main.go:18","M":"Headers:map[标题:Title1 负载:200], Body:asdasd"}
+{"L":"INFO","T":"2023-06-08T11:30:15.478+0800","C":"kafka_consumer/main.go:18","M":"Headers:map[标题:Title1 负载:200], Body:asdasd"}
+{"L":"INFO","T":"2023-06-08T11:30:15.478+0800","C":"kafka_consumer/main.go:18","M":"Headers:map[标题:Title1 负载:200], Body:asdasd"}
